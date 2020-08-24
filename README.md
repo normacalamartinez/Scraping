@@ -1,6 +1,6 @@
 # 🕵️‍♂️ Scraping Web
 
-¡Hola!
+##¡Hola!
 
 Es este repo 🍚 creé un análisis de adquisición de texto en archivos **planos contenidos en un .zip 📚 y Web Scraping leyendo contenido de google drive (excel)** de link 🔗 que apuntan a las biografías con enlaces a wikipedia. Todo desde **Python** 🐍
 
@@ -15,6 +15,9 @@ Para conocer un poco más.
 🍉 **Segundo punto**
 * Se toma de google drive un plano **xlsx** con la información allí contenido para trabajar. Este contiene los links de biografías de algunas personalidades importantes en el mundo. 🏌️‍♀️ 👨‍🎓 🧑‍🏫 👩‍⚖️
 * De los links observados procedemos a realizar el proceso de scraping para tener a la mano información importante y recopila de estas web.
+
+### Resultados de exploración.
+![Resultados](/Obama.png)
 .
 .
 .
