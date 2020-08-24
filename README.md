@@ -1,6 +1,9 @@
 🕵️‍♂️ **Scraping Web**
 
-Adquisición de texto en archivos **planos contenidos en un .zip y Web Scraping leyendo contenido de google drive (excel)** con los link de las biografías con enlaces a wikipedia.
+¡Hola!
+
+Es este repo 🍚 creé un análisis de adquisición de texto en archivos **planos contenidos en un .zip y Web Scraping leyendo contenido de google drive (excel)** de link 🔗 que apuntan a las biografías con enlaces a wikipedia. Todo desde **Python** 🐍
+
 
 Para conocer un poco más.
 
@@ -15,4 +18,5 @@ Para conocer un poco más.
 
 
 
+🦥 ¡Gracias por leerme!  🦥
 
