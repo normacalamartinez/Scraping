@@ -1,6 +1,6 @@
-🕵️‍♂️ <b>Scraping Web</b>
+🕵️‍♂️ **Scraping Web**
 
-Adquisición de texto en archivos planos contenidos en un .zip y Web Scraping leyendo contenido de google drive (excel) con los link de las biografías con enlaces a wikipedia.
+Adquisición de texto en archivos **planos contenidos en un .zip y Web Scraping leyendo contenido de google drive (excel)** con los link de las biografías con enlaces a wikipedia.
 
 Para conocer un poco más.
 
