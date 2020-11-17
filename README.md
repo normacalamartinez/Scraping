@@ -14,7 +14,7 @@ Para conocer un poco más.
 
 🍉 **Segundo punto**
 * Se toma de google drive un plano **xlsx** con la información allí contenido para trabajar. Este contiene los links de biografías de algunas personalidades importantes en el mundo. 🏌️‍♀️ 👨‍🎓 🧑‍🏫 👩‍⚖️
-* De los links observados procedemos a realizar el proceso de scraping para tener a la mano información importante y recopila de estas web.
+* De los links observados procedemos a realizar el proceso de `scraping` para tener a la mano información importante y recopila de estas web.
 
 ### Una pre-visualización para análisis.
 ![Resultados](/Obama.png)
